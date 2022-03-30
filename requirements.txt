@@ -1,7 +1,0 @@
-matplotlib
-numpy
-tqdm
-glob2
-dicom2nifti
-pytest-shutil
-nibabel
